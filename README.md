@@ -1,0 +1,1 @@
+Boilerplate for p5.js projects with debug functionality.
